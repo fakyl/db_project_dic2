@@ -1,0 +1,53 @@
+{
+    "name": "dbase",
+    "tables": {
+        "Student": [
+            {
+                "id": 201607,
+                "name": "Fatou Kane",
+                "surname": "Lo",
+                "adress": {
+                    "country": "US",
+                    "city": "New York",
+                    "state": "New York",
+                    "street": "15 Elliot Place"
+                },
+                "hobbies": "Homescapes",
+                "numberPhone": [
+                    {
+                        "type": "Personal",
+                        "number": "0013475798244"
+                    },
+                    {
+                        "type": "Home",
+                        "number": "0017185895028"
+                    }
+                ]
+            }
+        ],
+        "Teacher": [
+            {
+                "id": "201607P9S",
+                "name": "Ahmath Bamba",
+                "surname": "Mbacke",
+                "adress": {
+                    "country": "SN",
+                    "city": "Dakar",
+                    "state": "SN",
+                    "street": "Mandela"
+                },
+                "hobbies ": "Social Networks",
+                "numberPhone": [
+                    {
+                        "type": "Personal",
+                        "number": "002215798244"
+                    },
+                    {
+                        "type": "Home",
+                        "number": "00335895028"
+                    }
+                ]
+            }
+        ]
+    }
+}
