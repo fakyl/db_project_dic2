@@ -1,0 +1,22 @@
+{
+    "Student": [
+        {
+            "id": 201607,
+            "name": "Fatou Kane",
+            "surname": "Lo",
+            "adress": "Scat urbam",
+            "hobbies": "Homescapes",
+            "numberPhone": "002215798244"
+        }
+    ],
+    "Teacher": [
+        {
+            "id": 201607,
+            "name": "Ahmath Bamba",
+            "surname": "Mbacke",
+            "adress": "Mariste",
+            "hobbies ": "Social Networks",
+            "numberPhone": "002215798244"
+        }
+    ]
+}
